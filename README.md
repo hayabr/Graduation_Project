@@ -5,10 +5,6 @@
 👩‍💻 Developed by: Haya Albardawil  
 🧑‍🏫 Supervisor: Doç.Dr. Oğuz Ata  
 
- ⚠️ Note:This repository does not include source code — for academic integrity and intellectual property protection.
-
-The content below showcases the concept, features, and design of the application.  
-It also includes some advanced features such as detailed financial market analysis, technical indicator charts, and intelligent trading strategies — designed to help users better understand real-world investing.These features are not shown in the public version.
 
 ---
 
