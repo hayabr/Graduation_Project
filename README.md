@@ -3,7 +3,7 @@
 🎓 Graduation Project – 2025  
 📍 Altınbaş University – Software Engineering Department  
  Developed by: Haya Albardawil  
- Supervisor: Doç.Dr. Oğuz Ata  
+  
 
 
 ---
